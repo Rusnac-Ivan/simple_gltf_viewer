@@ -1,5 +1,5 @@
 # simple_gltf_viewer
-The simple  viewer of glb models
+The simple  viewer of gltf/glb models, on opengl.
 
 <img
   src="./images/native.PNG"
