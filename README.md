@@ -8,7 +8,7 @@ The simple  viewer of glb models
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 <img
-  src="./images/web.PNG"
+  src="./images/web1.PNG"
   alt="Alt text"
   title="The Web App"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
