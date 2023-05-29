@@ -1,0 +1,12 @@
+# Ignore build directory 
+build/
+out/
+bin/
+
+
+# Ignore config directory
+*.vscode
+*.vs
+
+# Ignore config file
+CMakeSettings.json
